@@ -337,23 +337,6 @@
         "non-veg": true
     }
 ],
-"": [
-    {
-        "id": ,
-        "name": "",
-        "price": "",
-        "img": "",
-        "non-veg": false
-    },
- 
-    {
-        "id": ,
-        "name": "",
-        "price": "",
-        "img": "",
-        "non-veg": true
-    }
-],
 "Footlongs": [
     {
         "id": 0,
@@ -523,4 +506,74 @@
         "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/Footlongs/Chicken-Cheese-Brust-Footlo%20-%20Copy.png?token=AQZAIB3UTY22NS6UWRXLZB3BAY6TY",
         "non-veg": true
     }
+],
+"": [
+    {
+        "id": ,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": false
+    },
+ 
+    {
+        "id": ,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    }
+],
+"Wraps": [
+    {
+        "id": 0,
+        "name": "Crispy Aloo Wrap",
+        "price": "99",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/Wraps/CRISPY-ALOO-WRAP.png?token=AQZAIB43742BDG73Z7WPIATBAY77S",
+        "non-veg": false
+    },
+    {
+        "id": 1,
+        "name": "Crispy Paneer Wrap",
+        "price": "109",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/Wraps/CRISPY-PANEER-WRAP.png?token=AQZAIB4ZHN262ZDWAW6DE43BAY77G",
+        "non-veg": false
+    }, 
+    {
+        "id": 2,
+        "name": "Crispy Chicken Wrap",
+        "price": "119",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/Wraps/CRISPY-CHICKEN-WRAP.png?token=AQZAIBYXXIXQEERLXI3I7TTBAY77M",
+        "non-veg": true
+    }
+],
+"FRIED CHICKEN": [
+    {
+        "id": 0,
+        "name": "Fried Chicken 2 Pcs",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    },
+    {
+        "id": 1,
+        "name": "Fried Chicken 4 Pcs",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    },
+    {
+        "id": 2,
+        "name": "Fried Chicken Bucket 6 Pos",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken Bucket 9 Pos",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    },
 ],
