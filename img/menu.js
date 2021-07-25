@@ -280,3 +280,33 @@
     }
   
 ]
+"Pastas": [
+    {
+        "id": 0,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 1,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 2,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    },
+    {
+        "id": 3,
+        "name": "",
+        "price": "",
+        "img": "",
+        "non-veg": true
+    }
+]
