@@ -507,23 +507,7 @@
         "non-veg": true
     }
 ],
-"": [
-    {
-        "id": ,
-        "name": "",
-        "price": "",
-        "img": "",
-        "non-veg": false
-    },
- 
-    {
-        "id": ,
-        "name": "",
-        "price": "",
-        "img": "",
-        "non-veg": true
-    }
-],
+
 "Wraps": [
     {
         "id": 0,
@@ -551,29 +535,149 @@
     {
         "id": 0,
         "name": "Fried Chicken 2 Pcs",
-        "price": "",
-        "img": "",
+        "price": "139",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/FRIED%20CHICKEN/Fried-Chicken-2pcs.png?token=AQZAIB2ELL6EDZUNRXFM7CDBAZBGK",
         "non-veg": true
     },
     {
         "id": 1,
         "name": "Fried Chicken 4 Pcs",
-        "price": "",
-        "img": "",
+        "price": "269",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/FRIED%20CHICKEN/Fried-Chicken-4pcs.png?token=AQZAIBZ6DDB2LBXMGOTOHEDBAZBHM",
         "non-veg": true
     },
     {
         "id": 2,
         "name": "Fried Chicken Bucket 6 Pos",
-        "price": "",
-        "img": "",
+        "price": "399",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/FRIED%20CHICKEN/Fried-Chicken-6pcs.png?token=AQZAIB7UXBLJUSXEQTEXN5DBAZBIO",
         "non-veg": true
     },
     {
         "id": 3,
         "name": "Fried Chicken Bucket 9 Pos",
-        "price": "",
-        "img": "",
+        "price": "599",
+        "img": "https://raw.githubusercontent.com/gautam4895/Grill-inn/main/img/FRIED%20CHICKEN/Fried-Chicken-9pcs.png?token=AQZAIB2YDB25EYBCMKML6BTBAZBJ2",
         "non-veg": true
     },
 ],
+
+"Beverages": [
+    {
+        "id": 0,
+        "name": "Aerated Drinks",
+        "price": "30",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 1,
+        "name": "Ice Tea Lemon",
+        "price": "55",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 2,
+        "name": "Cafe Frappe",
+        "price": "89",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 3,
+        "name": "Shakes",
+        "price": "89",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 4,
+        "name": "Oreo Shakes",
+        "price": "99",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 5,
+        "name": "Kit Kat Shake",
+        "price": "99",
+        "img": "",
+        "non-veg": false
+    },
+    {
+        "id": 6,
+        "name": "Packaged Drinkng Water",
+        "price": "MRP",
+        "img": "",
+        "non-veg": false
+    }
+],
+"Desserts": [
+    {
+        "id": "0",
+        "name": "Chocolato",
+        "price": "45",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "1",
+        "name": "Vanila",
+        "price": "45",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "2",
+        "name": "Stawberry",
+        "price": "45",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "3",
+        "name": "Butterscotch",
+        "price": "45",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "4",
+        "name": "Mango",
+        "price": "45",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "5",
+        "name": "Hot Chocolate Fudge",
+        "price": "89",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "6",
+        "name": "Fruit Sundae",
+        "price": "89",
+        "img": ""
+        "non-veg": false
+    }
+]
+"Add Ons"[
+    {
+        "id": "0",
+        "name": "Extra Cheese",
+        "price": "20",
+        "img": ""
+        "non-veg": false
+    },
+    {
+        "id": "1",
+        "name": "Cheese Dip",
+        "price": "25
+        ",
+        "img": ""
+        "non-veg": false
+    },
+]
